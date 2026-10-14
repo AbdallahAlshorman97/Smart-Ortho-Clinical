@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720">
+  <rect width="100%" height="100%" fill="white"/>
+  <style>text{font-family:Arial,sans-serif;fill:#111}.t{font-size:28px;font-weight:bold}.h{font-size:18px;font-weight:bold}.n{font-size:16px}.a{font-size:13px;fill:#555}</style>
+  <text x="40" y="42" class="t">Model A — Independent Test Confusion Matrices</text><rect x="40" y="75" width="480" height="255" rx="10" fill="#fafafa" stroke="#333"/>
+    <text x="58" y="105" class="h">Logistic Regression</text><rect x="215" y="130" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="244" y="165" text-anchor="middle" class="n">750</text><rect x="273" y="130" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="302" y="165" text-anchor="middle" class="n">0</text><rect x="331" y="130" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="360" y="165" text-anchor="middle" class="n">0</text><rect x="215" y="188" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="244" y="223" text-anchor="middle" class="n">0</text><rect x="273" y="188" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="302" y="223" text-anchor="middle" class="n">750</text><rect x="331" y="188" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="360" y="223" text-anchor="middle" class="n">0</text><rect x="215" y="246" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="244" y="281" text-anchor="middle" class="n">0</text><rect x="273" y="246" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="302" y="281" text-anchor="middle" class="n">0</text><rect x="331" y="246" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="360" y="281" text-anchor="middle" class="n">750</text><text x="302" y="328" text-anchor="middle" class="a">Predicted: High / Moderate / Low</text><rect x="560" y="75" width="480" height="255" rx="10" fill="#fafafa" stroke="#333"/>
+    <text x="578" y="105" class="h">Random Forest</text><rect x="735" y="130" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="764" y="165" text-anchor="middle" class="n">750</text><rect x="793" y="130" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="822" y="165" text-anchor="middle" class="n">0</text><rect x="851" y="130" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="880" y="165" text-anchor="middle" class="n">0</text><rect x="735" y="188" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="764" y="223" text-anchor="middle" class="n">0</text><rect x="793" y="188" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="822" y="223" text-anchor="middle" class="n">750</text><rect x="851" y="188" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="880" y="223" text-anchor="middle" class="n">0</text><rect x="735" y="246" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="764" y="281" text-anchor="middle" class="n">0</text><rect x="793" y="246" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="822" y="281" text-anchor="middle" class="n">0</text><rect x="851" y="246" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="880" y="281" text-anchor="middle" class="n">750</text><text x="822" y="328" text-anchor="middle" class="a">Predicted: High / Moderate / Low</text><rect x="40" y="375" width="480" height="255" rx="10" fill="#fafafa" stroke="#333"/>
+    <text x="58" y="405" class="h">Calibrated Linear SVM</text><rect x="215" y="430" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="244" y="465" text-anchor="middle" class="n">750</text><rect x="273" y="430" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="302" y="465" text-anchor="middle" class="n">0</text><rect x="331" y="430" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="360" y="465" text-anchor="middle" class="n">0</text><rect x="215" y="488" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="244" y="523" text-anchor="middle" class="n">0</text><rect x="273" y="488" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="302" y="523" text-anchor="middle" class="n">750</text><rect x="331" y="488" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="360" y="523" text-anchor="middle" class="n">0</text><rect x="215" y="546" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="244" y="581" text-anchor="middle" class="n">0</text><rect x="273" y="546" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="302" y="581" text-anchor="middle" class="n">0</text><rect x="331" y="546" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="360" y="581" text-anchor="middle" class="n">750</text><text x="302" y="628" text-anchor="middle" class="a">Predicted: High / Moderate / Low</text><rect x="560" y="375" width="480" height="255" rx="10" fill="#fafafa" stroke="#333"/>
+    <text x="578" y="405" class="h">Extra Trees / SGD Logistic</text><rect x="735" y="430" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="764" y="465" text-anchor="middle" class="n">750</text><rect x="793" y="430" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="822" y="465" text-anchor="middle" class="n">0</text><rect x="851" y="430" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="880" y="465" text-anchor="middle" class="n">0</text><rect x="735" y="488" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="764" y="523" text-anchor="middle" class="n">0</text><rect x="793" y="488" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="822" y="523" text-anchor="middle" class="n">750</text><rect x="851" y="488" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="880" y="523" text-anchor="middle" class="n">0</text><rect x="735" y="546" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="764" y="581" text-anchor="middle" class="n">0</text><rect x="793" y="546" width="58" height="58" fill="rgb(245,253,255)" stroke="#777"/>
+      <text x="822" y="581" text-anchor="middle" class="n">0</text><rect x="851" y="546" width="58" height="58" fill="rgb(100,108,124)" stroke="#777"/>
+      <text x="880" y="581" text-anchor="middle" class="n">750</text><text x="822" y="628" text-anchor="middle" class="a">Predicted: High / Moderate / Low</text></svg>
