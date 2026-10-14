@@ -1,0 +1,44 @@
+[
+  {
+    "id": "open_fracture",
+    "pattern": "\\bopen\\b.*\\bfracture\\b|\\bfracture\\b.*\\bopen\\b",
+    "description": "Open fracture terminology detected",
+    "level": "Level 1 – Highest urgency",
+    "dataset_label": "Urgent"
+  },
+  {
+    "id": "compartment_syndrome",
+    "pattern": "\\bcompartment syndrome\\b",
+    "description": "Compartment syndrome terminology detected",
+    "level": "Level 1 – Highest urgency",
+    "dataset_label": "Urgent"
+  },
+  {
+    "id": "cauda_equina",
+    "pattern": "\\bcauda equina\\b",
+    "description": "Cauda equina syndrome terminology detected",
+    "level": "Level 1 – Highest urgency",
+    "dataset_label": "Urgent"
+  },
+  {
+    "id": "spinal_cord_compression",
+    "pattern": "\\bspinal cord compression\\b",
+    "description": "Spinal cord compression terminology detected",
+    "level": "Level 1 – Highest urgency",
+    "dataset_label": "Urgent"
+  },
+  {
+    "id": "neurovascular_compromise",
+    "pattern": "\\bneurovascular compromise\\b",
+    "description": "Neurovascular compromise terminology detected",
+    "level": "Level 1 – Highest urgency",
+    "dataset_label": "Urgent"
+  },
+  {
+    "id": "severe_infection",
+    "pattern": "\\b(severe infection|sepsis|necrotizing fasciitis)\\b",
+    "description": "Severe infection terminology detected",
+    "level": "Level 1 – Highest urgency",
+    "dataset_label": "Urgent"
+  }
+]
